@@ -68,3 +68,9 @@ Displays information throughout the whole simulation.
 - alive: how many cells have lived
 - revived: how many cells have been revived
 - died: how many cells have died
+
+## Build
+- Download and unzip.
+- cd src
+- javac *.java
+- java Main
